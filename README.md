@@ -100,13 +100,14 @@ minikube service <service-name>
 </p>
 
 ###  🧪 Technologies Used
-Frontend: React.js
+1-Frontend: React.js
 
-Containerization: Docker
+2-Containerization: Docker
 
-Orchestration: Kubernetes
+3-Orchestration: Kubernetes
 
-Package Manager: npm
+4-Package Manager: npm
+
 
 
 
