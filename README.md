@@ -26,15 +26,16 @@ Orchestration: Kubernetes (K8s)
 
 To run this project, you will need:
 
-Node.js 
+1- Node.js 
 
-Docker
+2- Docker
 
-Minikube or a Kubernetes cluster
+3- Minikube or a Kubernetes cluster
 
-kubectl
+4- kubectl
 
-Local Development
+5- Local Development
+
 ### Clone the repository:
 ```
 git clone https://github.com/aakansha113/node-react-k8s-docker-app.git
@@ -106,6 +107,7 @@ Containerization: Docker
 Orchestration: Kubernetes
 
 Package Manager: npm
+
 
 
 
