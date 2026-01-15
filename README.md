@@ -97,7 +97,8 @@ minikube service <service-name>
 <p align="center">
   <img src="assets/output3.png" width="700"/>
 </p>
-### 🧪 Technologies Used
+
+###  🧪 Technologies Used
 Frontend: React.js
 
 Containerization: Docker
@@ -105,5 +106,6 @@ Containerization: Docker
 Orchestration: Kubernetes
 
 Package Manager: npm
+
 
 
