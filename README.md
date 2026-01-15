@@ -41,6 +41,10 @@ To run this project, you will need:
 git clone https://github.com/aakansha113/node-react-k8s-docker-app.git
 cd node-react-k8s-docker-app
 ```
+### you can get this image on :
+```
+https://hub.docker.com/repository/docker/aakansha113/node-web-app/
+ ```
 ### Install dependencies:
 ```
 npm install
@@ -107,6 +111,7 @@ minikube service <service-name>
 3-Orchestration: Kubernetes
 
 4-Package Manager: npm
+
 
 
 
