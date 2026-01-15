@@ -83,6 +83,20 @@ Access the app: If using Minikube, run:
 ```
 minikube service <service-name>
 ```
+## Application UI
+## Webpage-
+<p align="center">
+  <img src="assets/output1.png" width="700"/>
+</p>
+
+
+<p align="center">
+  <img src="assets/output2.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="assets/output3.png" width="700"/>
+</p>
 ### 🧪 Technologies Used
 Frontend: React.js
 
@@ -91,3 +105,4 @@ Containerization: Docker
 Orchestration: Kubernetes
 
 Package Manager: npm
+
