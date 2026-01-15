@@ -86,12 +86,12 @@ minikube service <service-name>
 ## Application UI
 ## Webpage-
 <p align="center">
-  <img src="assets/output1.png" width="700"/>
+  <img src="assets/output2.png" width="700"/>
 </p>
 
 
 <p align="center">
-  <img src="assets/output2.png" width="700"/>
+  <img src="assets/output1.png" width="700"/>
 </p>
 
 <p align="center">
@@ -105,4 +105,5 @@ Containerization: Docker
 Orchestration: Kubernetes
 
 Package Manager: npm
+
 
